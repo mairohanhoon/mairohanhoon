@@ -1,5 +1,5 @@
 <img src="background_1.png">
-<h1 align="center"> Hi I'm <b>Rohan Tiwari</b></h1>
+<h1 align="center"> Hi 👋 I'm <b>Rohan Tiwari</b></h1>
 <h2 align="center"><b>I'm a Passionate for Problem Solving and Learning Full Stack Development from India :india:</b></h2>
 <h4 align="center"><b>Problem Solving Enthusiast || B.Tech CSE@DITU'26 || CodeChef(max.1340) || 110+WPM || Proficient in C, C++, HTML, and CSS
 </b></h4> 
