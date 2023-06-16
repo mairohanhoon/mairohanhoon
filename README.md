@@ -18,8 +18,20 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 
 <h2>🏆 Achievements</h2>
 <b>✅ <a href= "https://www.codechef.com/users/rohantiwari">CodeChef</a></b><br>
-- 45+ Days of coading streak<br>
+- 45+ Days of Coding Streak<br>
 - 325+ Problems Solved<br>
 - Highest Rating 1361<br><br>
 
-<b>✅ <a href= "">Monkeytype</a></b><br> 
+<b>✅ <a href= "https://monkeytype.com/profile/RohanTiwari">Monkeytype</a></b><br> 
+- 150+ Days of Typing Practice Streak<br>
+- Max 122 WPM in 30sec test<br>
+- Max 112 WPM in 60sec test<br>
+- 110+ WPM Average Typing Speed<br><br>
+
+<b>✅ <a href= "https://codeforces.com/profile/tiwarirohan">CodeForces</a></b><br> 
+- 10+ Problems Solved<br>
+- 10+ Days of Coding Streak<br>
+- Contest rating: max. newbie, 351<br><br>
+
+<h2>🚀Languages and Tools</h2> <hr>
+<img src="Java_Logo.png" width="auto" height="150px"> <img src="c_logo.png" width="auto" height="150px">
