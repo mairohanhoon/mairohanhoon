@@ -11,7 +11,15 @@
 - 👁‍🗨 What's Special about me? <br>
 Ability to quickly Learn and Master a new skill and to implement it to solve a realtime problems, and having a constant desire to learn and stay informed about emerging technologies in the tech world.<br>
 - 📚 I'm Currently Studing in **2nd Year**<br>
-- 📘 I’m Currently learning **Full Stack Web Development**<br>
+- 📘 I’m Currently learning **Full Stack Web Development & Advanced DSA**<br>
 - 🎈 For fun **Games, Reddit, Hip-Hop music**<br>
-- 📫 How to reach me **rohantiwari2709@gmail.com**<br>
-- 🔗 Connect Me on [**Linkedin**](https://www.linkedin.com/in/rohan-tiwarii/)<br>
+- 📫 How to reach me <a href="mailto:rohantiwari2709@gmail.com"><b>Mail</b></a><br>
+- 🔗 Connect Me on <a href="https://www.linkedin.com/in/rohan-tiwarii/"><b>LinkedIn</b></a><br> <br>
+
+<h2>🏆 Achievements</h2>
+<b>✅ <a href= "https://www.codechef.com/users/rohantiwari">CodeChef</a></b><br>
+- 45+ Days of coading streak<br>
+- 325+ Problems Solved<br>
+- Highest Rating 1361<br><br>
+
+<b>✅ <a href= "">Monkeytype</a></b><br> 
