@@ -34,4 +34,4 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 - Contest rating: max. newbie, 351<br><br>
 
 <h2>🚀Languages and Tools</h2> <hr>
-<img src="Java_Logo.png" width="auto" height="150px"> <img src="c_logo.png" width="auto" height="150px">
+<img src="Java_Logo.png" width="auto" height="150px" style="display:inline"> <img src="c_logo.png" width="auto" height="150px" style="display:inline">
