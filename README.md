@@ -41,6 +41,9 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 <h2>🚀Languages and Tools</h2> <hr>
 <img src="Java_Logo.png" width="auto" height="150px" style="display:inline"> <img src="c_logo.png" width="auto" height="150px" style="display:inline">
 
+
+
+<h2>📊 My Github Stats</h2>
 <hr>
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mairohanhoon&theme=dark&background=000000)](https://git.io/streak-stats)
+    <p align="centre">   <a> <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rohan Tiwari streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mairohanhoon&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/></a>
+  </p>
