@@ -1,4 +1,4 @@
-<p><img src="https://github.com/mairohanhoon/mairohanhoon/blob/a0bfb32fa2677049e867ba2f90980fdf7227ada2/background_1.png"></p>
+<img src="background_1.png">
 <h1 align="center"> Hi 👋 I'm <b>Rohan Tiwari</b></h1>
 <h2 align="center"><b>I'm a Passionate for Problem Solving and Learning Full Stack Development from India :india:</b></h2>
 <h4 align="center"><b>Problem Solving Enthusiast || B.Tech CSE@DITU'26 || CodeChef(max.1361) || 110+WPM || Proficient in C, C++, HTML, and CSS
