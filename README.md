@@ -1,4 +1,4 @@
-<img src="https://github.com/mairohanhoon/mairohanhoon/blob/a0bfb32fa2677049e867ba2f90980fdf7227ada2/background_1.png">
+<p><img src="https://github.com/mairohanhoon/mairohanhoon/blob/a0bfb32fa2677049e867ba2f90980fdf7227ada2/background_1.png"></p>
 <h1 align="center"> Hi 👋 I'm <b>Rohan Tiwari</b></h1>
 <h2 align="center"><b>I'm a Passionate for Problem Solving and Learning Full Stack Development from India :india:</b></h2>
 <h4 align="center"><b>Problem Solving Enthusiast || B.Tech CSE@DITU'26 || CodeChef(max.1361) || 110+WPM || Proficient in C, C++, HTML, and CSS
@@ -17,12 +17,14 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 - 🔗 Connect Me on <a href="https://www.linkedin.com/in/rohan-tiwarii/"><b>LinkedIn</b></a><br> <br>
 
 <h2>🏆 Achievements</h2>
+
 <b>✅ <a href= "https://www.codechef.com/users/rohantiwari">CodeChef</a></b><br>
 - 45+ Days of Coding Streak<br>
 - 325+ Problems Solved<br>
 - Highest Rating 1361<br><br>
 
 <b>✅ <a href= "https://monkeytype.com/profile/RohanTiwari">Monkeytype</a></b><br> 
+- 180+ Level Experience
 - 150+ Days of Typing Practice Streak<br>
 - Max 122 WPM in 30sec test<br>
 - Max 112 WPM in 60sec test<br>
@@ -40,25 +42,24 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 
 <h2>🚀Languages and Tools</h2> <hr>
 <p align="left"> 
-    <a href="#"><img src="https://icons8.com/icon/40669/c%2B%2B"/></a>
-    <a href="#"><img src="https://icons8.com/icon/40670/c-programming"/></a>
-    <a href="#"><img src="https://icons8.com/icon/13679/java"/></a>
-    <a href="#"><img src="https://icons8.com/icon/61466/intellij-idea"/></a>
-    <a href="#"><img src="https://icons8.com/icon/9OGIyU8hrxW5/visual-studio-code-2019"/></a>
-    <a href="#"><img src="https://icons8.com/icon/20906/git"/></a>
-    <a href="#"><img src="https://icons8.com/icon/12599/github"/></a>
-    <a href="#"><img src="https://icons8.com/icon/20909/html-5"/></a>
-    <a href="#"><img src="https://icons8.com/icon/21278/css3"/></a>
-    <a href="#"><img src="https://icons8.com/icon/FUwceJUAs8kb/notion"/></a>
-    <a href="#"><img src="https://icons8.com/icon/gXoJoyTtYXFg/windows-10"/></a>
-    <a href="#"><img src="https://icons8.com/icon/-5h34CbaUb09/microsoft-edge"/></a>
-    <a href="#"><img src="https://icons8.com/icon/O4SEeX66BY8o/codechef"/></a>
-    <a href="#"><img src="https://icons8.com/icon/YSy0lU4Y0X4z/codeforces.-programming-competitions-and-contests%2C-programming-community."/></a>
-    <a href="#"><img src="https://icons8.com/icon/mT2bzIQRdfpR/hackerrank-is-a-technology-company-that-focuses-on-competitive-programming"/></a>
-    <a href="#"><img src="https://icons8.com/icon/AbQBhN9v62Ob/geeksforgeeks"/></a>
-    <a href="#"><img src=""/></a>
-    <a href="#"><img src=""/></a>
-    <a href="#"><img src=""/></a>
+    <img src="https://img.icons8.com/?size=512&id=40669&format=png" width="100px" height="auto"/>
+    <img src="https://img.icons8.com/?size=512&id=40670&format=png" width="100px" height="auto"/>
+    <img src="https://img.icons8.com/?size=512&id=13679&format=png" width="100px" height="auto"/>
+    <img src="https://img.icons8.com/?size=512&id=61466&format=png" width="100px" height="auto"/>
+    <img src="https://img.icons8.com/?size=512&id=9OGIyU8hrxW5&format=png" width="100px" height="auto"/>
+    <img src="https://img.icons8.com/?size=512&id=20906&format=png" width="100px" height="auto"/>
+    <img src="https://img.icons8.com/?size=512&id=12599&format=png" width="100px" height="auto"/>
+    <img src="https://img.icons8.com/?size=512&id=20909&format=png" width="100px" height="auto"/>
+    <img src="https://img.icons8.com/?size=512&id=21278&format=png" width="100px" height="auto"/>
+    <img src="https://img.icons8.com/?size=512&id=F6H2fsqXKBwH&format=png" width="100px" height="auto"/>
+    <img src="https://img.icons8.com/?size=512&id=gXoJoyTtYXFg&format=png" width="100px" height="auto"/>
+    <img src="https://img.icons8.com/?size=512&id=-5h34CbaUb09&format=png" width="100px" height="auto"/>
+    <img src="https://img.icons8.com/?size=512&id=O4SEeX66BY8o&format=png" width="100px" height="auto"/>
+    <img src="https://img.icons8.com/?size=512&id=YSy0lU4Y0X4z&format=png" width="100px" height="auto"/>
+    <img src="https://img.icons8.com/?size=512&id=mT2bzIQRdfpR&format=png" width="100px" height="auto"/>
+    <img src="https://img.icons8.com/?size=512&id=AbQBhN9v62Ob&format=png" width="100px" height="auto"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/HackerEarth_logo.png" width="100px" height="auto"/>
+    <img src="https://img.icons8.com/?size=512&id=6RHskkZGRABM&format=png" width="100px" height="auto"/>
 </p>
 
 
