@@ -39,7 +39,27 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 - 160+ Hackos<br><br>
 
 <h2>🚀Languages and Tools</h2> <hr>
-<img src="Java_Logo.png" width="auto" height="150px" style="display:inline"> <img src="c_logo.png" width="auto" height="150px" style="display:inline">
+<p align="left"> 
+    <a href="#"><img src="https://icons8.com/icon/40669/c%2B%2B"/></a>
+    <a href="#"><img src="https://icons8.com/icon/40670/c-programming"/></a>
+    <a href="#"><img src="https://icons8.com/icon/13679/java"/></a>
+    <a href="#"><img src="https://icons8.com/icon/61466/intellij-idea"/></a>
+    <a href="#"><img src="https://icons8.com/icon/9OGIyU8hrxW5/visual-studio-code-2019"/></a>
+    <a href="#"><img src="https://icons8.com/icon/20906/git"/></a>
+    <a href="#"><img src="https://icons8.com/icon/12599/github"/></a>
+    <a href="#"><img src="https://icons8.com/icon/20909/html-5"/></a>
+    <a href="#"><img src="https://icons8.com/icon/21278/css3"/></a>
+    <a href="#"><img src="https://icons8.com/icon/FUwceJUAs8kb/notion"/></a>
+    <a href="#"><img src="https://icons8.com/icon/gXoJoyTtYXFg/windows-10"/></a>
+    <a href="#"><img src="https://icons8.com/icon/-5h34CbaUb09/microsoft-edge"/></a>
+    <a href="#"><img src="https://icons8.com/icon/O4SEeX66BY8o/codechef"/></a>
+    <a href="#"><img src="https://icons8.com/icon/YSy0lU4Y0X4z/codeforces.-programming-competitions-and-contests%2C-programming-community."/></a>
+    <a href="#"><img src="https://icons8.com/icon/mT2bzIQRdfpR/hackerrank-is-a-technology-company-that-focuses-on-competitive-programming"/></a>
+    <a href="#"><img src="https://icons8.com/icon/AbQBhN9v62Ob/geeksforgeeks"/></a>
+    <a href="#"><img src=""/></a>
+    <a href="#"><img src=""/></a>
+    <a href="#"><img src=""/></a>
+</p>
 
 
 
