@@ -60,6 +60,7 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
     <img src="https://img.icons8.com/?size=512&id=AbQBhN9v62Ob&format=png" width="100px" height="auto"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/HackerEarth_logo.png" width="100px" height="auto"/>
     <img src="https://img.icons8.com/?size=512&id=6RHskkZGRABM&format=png" width="100px" height="auto"/>
+    <img src="https://typingstats.com/partners/monkeytype.png" width="100px" height="auto"/>
 </p>
 
 
