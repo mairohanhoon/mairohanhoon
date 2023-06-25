@@ -24,21 +24,28 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 - Highest Rating 1361<br><br>
 
 <b>✅ <a href= "https://monkeytype.com/profile/RohanTiwari">Monkeytype</a></b><br> 
-- 180+ Level Experience
-- 150+ Days of Typing Practice Streak<br>
+- 185+ Level Experience<br>
+- 165+ Days of Typing Practice Streak<br>
 - Max 122 WPM in 30sec test<br>
 - Max 112 WPM in 60sec test<br>
 - 110+ WPM Average Typing Speed<br><br>
 
 <b>✅ <a href= "https://codeforces.com/profile/tiwarirohan">CodeForces</a></b><br> 
-- 15+ Problems Solved<br>
-- 12+ Days of Coding Streak<br>
+- 20+ Problems Solved<br>
+- 18+ Days of Coding Streak<br>
 - Contest rating: max. newbie, 782<br><br>
 
 <b>✅ <a href= "https://www.hackerrank.com/rohantiwari2709?hr_r=1">HackerRank</a></b><br> 
 - 3⭐ Badge in C++<br>
+- 2⭐ Badge in C<br>
 - 2⭐ Badge in Java<br>
-- 160+ Hackos<br><br>
+- 250+ Hackos<br><br>
+
+<b>✅ <a href= "https://www.codingninjas.com/studio/profile/rohan_tiwari">CodingNinjas</a></b><br> 
+- Weekend Contest Rating 1687<br>
+- Level 4(Scholar)<br>
+- 10+ Problems Solved<br>
+- 05+ Days of Coding Streak<br><br>
 
 <h2>🚀Languages and Tools</h2> <hr>
 <p align="left"> 
