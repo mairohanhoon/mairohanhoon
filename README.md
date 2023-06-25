@@ -20,8 +20,9 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 
 <b>✅ <a href= "https://www.codechef.com/users/rohantiwari">CodeChef</a></b><br>
 - 45+ Days of Coding Streak<br>
-- 325+ Problems Solved<br>
-- Highest Rating 1361<br><br>
+- 340+ Problems Solved<br>
+- Highest Rating 1361<br>
+- 14+ Contests Participated <br><br>
 
 <b>✅ <a href= "https://monkeytype.com/profile/RohanTiwari">Monkeytype</a></b><br> 
 - 185+ Level Experience<br>
@@ -46,6 +47,13 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 - Level 4(Scholar)<br>
 - 10+ Problems Solved<br>
 - 05+ Days of Coding Streak<br><br>
+
+<b>✅ <a href= "https://www.hackerearth.com/@rohantiwari2709">HackerEarth</a></b><br> 
+- 2⭐ Basic Programming<br>
+- Level Novice<br>
+- 08+ Problems Solved<br>
+- 08+ Days of Coding Streak<br>
+- 120+ Points<br><br>
 
 <h2>🚀Languages and Tools</h2> <hr>
 <p align="left"> 
