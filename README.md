@@ -42,6 +42,10 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 - 2⭐ Badge in Java<br>
 - 250+ Hackos<br><br>
 
+<b>✅ <a href= "https://www.hackerrank.com/rohantiwari2709?hr_r=1">Leetcode</a></b><br> 
+- 8+ Questions Solved<br>
+- 5+ Days of Coding Streak<br><br>
+
 <b>✅ <a href= "https://www.codingninjas.com/studio/profile/rohan_tiwari">CodingNinjas</a></b><br> 
 - Weekend Contest Rating 1687<br>
 - Level 4(Scholar)<br>
