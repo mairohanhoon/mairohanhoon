@@ -87,9 +87,23 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 
 <h2>📊 My Github Stats</h2>
 <hr>
-    <p align="centre">   <a> <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rohan Tiwari streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mairohanhoon&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/></a>
+    <p align="centre">   <a> <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rohan Tiwari streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mairohanhoon&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/></a
   </p>
-  <br/>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=mairohanhoon&show_icons=true&theme=tokyonight"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=mairohanhoon&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=mairohanhoon&show_icons=true" />
+</picture>
+
+
+<br>
 <!-- <a href="https://github.com/mairohanhoon/github-readme-stats"><img alt="Rohan Tiwari Github Stats" src="https://github-readme-stats.vercel.app/api?username=mairohanhoon&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/mairohanhoon/github-readme-stats"><img alt="Rohan Tiwari Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mairohanhoon&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
