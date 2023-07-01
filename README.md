@@ -48,11 +48,11 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 - 12+ Questions Solved<br>
 - 10+ Days of Coding Streak<br><br>
 
-<b>✅ <a href= "https://www.codingninjas.com/studio/profile/rohan_tiwari">CodingNinjas</a></b><br> 
-- Weekend Contest Rating 1687<br>
+<b>✅ <a href= "https://www.codingninjas.com/studio/profile/rohan_tiwari">CodingStudio</a></b><br> 
+- Weekend Contest Rating 1854<br>
 - Level 5(Champion)<br>
-- 1450+ EXP gained<br>
-- 30+ Problems Solved<br>
+- 1770+ EXP gained<br>
+- 35+ Problems Solved<br>
 - 11+ Days of Coding Streak<br><br>
 
 <b>✅ <a href= "https://www.hackerearth.com/@rohantiwari2709">HackerEarth</a></b><br> 
