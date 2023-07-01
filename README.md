@@ -53,7 +53,8 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 - Level 5(Champion)<br>
 - 1770+ EXP gained<br>
 - 35+ Problems Solved<br>
-- 11+ Days of Coding Streak<br><br>
+- 11+ Days of Coding Streak<br>
+- Bronze league<br>
 
 <b>✅ <a href= "https://www.hackerearth.com/@rohantiwari2709">HackerEarth</a></b><br> 
 - 2⭐ Basic Programming<br>
