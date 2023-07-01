@@ -20,44 +20,48 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 
 <b>✅ <a href= "https://www.codechef.com/users/rohantiwari">CodeChef</a></b><br>
 - 45+ Days of Coding Streak<br>
-- 340+ Problems Solved<br>
-- Highest Rating 1361<br>
-- 14+ Contests Participated <br><br>
+- 350+ Problems Solved<br>
+- 1082+ 1v1 Rating<br>
+- Highest Rating 1362<br>
+- 15+ Contests Participated <br><br>
 
 <b>✅ <a href= "https://monkeytype.com/profile/RohanTiwari">Monkeytype</a></b><br> 
-- 185+ Level Experience<br>
-- 165+ Days of Typing Practice Streak<br>
-- Max 122 WPM in 30sec test<br>
-- Max 112 WPM in 60sec test<br>
-- 110+ WPM Average Typing Speed<br><br>
+- 190+ Level Experience<br>
+- 172+ Days of Typing Practice Streak<br>
+- Max 123 WPM in 30sec test<br>
+- Max 116 WPM in 60sec test<br>
+- 105+ WPM Average Typing Speed<br><br>
 
 <b>✅ <a href= "https://codeforces.com/profile/tiwarirohan">CodeForces</a></b><br> 
-- 20+ Problems Solved<br>
-- 18+ Days of Coding Streak<br>
-- Contest rating: max. newbie, 782<br><br>
+- 27+ Problems Solved<br>
+- 24+ Days of Coding Streak<br>
+- Contest rating: max. newbie, 787<br><br>
 
 <b>✅ <a href= "https://www.hackerrank.com/rohantiwari2709?hr_r=1">HackerRank</a></b><br> 
 - 3⭐ Badge in C++<br>
 - 2⭐ Badge in C<br>
 - 2⭐ Badge in Java<br>
-- 250+ Hackos<br><br>
+- 1⭐ Problem Solving<br>
+- 330+ Hackos<br><br>
 
 <b>✅ <a href= "https://leetcode.com/rohantiwari2709/">Leetcode</a></b><br> 
-- 8+ Questions Solved<br>
-- 5+ Days of Coding Streak<br><br>
+- 12+ Questions Solved<br>
+- 10+ Days of Coding Streak<br><br>
 
 <b>✅ <a href= "https://www.codingninjas.com/studio/profile/rohan_tiwari">CodingNinjas</a></b><br> 
 - Weekend Contest Rating 1687<br>
-- Level 4(Scholar)<br>
-- 10+ Problems Solved<br>
-- 05+ Days of Coding Streak<br><br>
+- Level 5(Champion)<br>
+- 1450+ EXP gained<br>
+- 30+ Problems Solved<br>
+- 11+ Days of Coding Streak<br><br>
 
 <b>✅ <a href= "https://www.hackerearth.com/@rohantiwari2709">HackerEarth</a></b><br> 
 - 2⭐ Basic Programming<br>
-- Level Novice<br>
-- 08+ Problems Solved<br>
-- 08+ Days of Coding Streak<br>
-- 120+ Points<br><br>
+- 1⭐ Algorithms<br>
+- Level Amateure<br>
+- 12+ Problems Solved<br>
+- 14+ Days of Coding Streak<br>
+- 200+ Points<br><br>
 
 <h2>🚀Languages and Tools</h2> <hr>
 <p align="left"> 
