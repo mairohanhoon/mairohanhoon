@@ -1,5 +1,5 @@
 <img src="background_1.png">
-<h1 align="center"> Hi 👋 I'm <b>Rohan Tiwari</b></h1>
+<h1 align="center"> Hi <img src="https://media.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="40px"> I'm <b>Rohan Tiwari</b></h1>
 <h2 align="center"><b>I'm a Passionate for Problem Solving and Learning Full Stack Development from India :india:</b></h2>
 <h4 align="center"><b>Problem Solving Enthusiast || B.Tech CSE@DITU'26 || CodeChef(max.1361) || 110+WPM || Proficient in C, C++, HTML, and CSS
 </b></h4> 
@@ -16,7 +16,7 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 - 📫 How to reach me <a href="mailto:rohantiwari2709@gmail.com"><b>Mail</b></a><br>
 - 🔗 Connect Me on <a href="https://www.linkedin.com/in/rohan-tiwarii/"><b>LinkedIn</b></a><br> <br>
 
-<h2>🏆 Achievements</h2>
+<h2><img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif" width="40px"> Achievements</h2>
 
 <b>✅ <a href= "https://www.codechef.com/users/rohantiwari">CodeChef</a></b><br>
 - 45+ Days of Coding Streak<br>
@@ -86,6 +86,7 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
     <img src="https://img.icons8.com/?size=512&id=6RHskkZGRABM&format=png" width="100px" height="auto"/>
     <img src="https://typingstats.com/partners/monkeytype.png" width="100px" height="auto"/>
     <img src="https://yt3.googleusercontent.com/kv5nH1CBnmIJ-1g2hmmTm_GekJfaYothHb1HmgAU8IB9zdu3y7vVVtCTEGPqs_dHbr0XEB_anyM=s900-c-k-c0x00ffffff-no-rj" width="100px" height="auto"/>
+    <img src="https://img.icons8.com/?size=512&id=iCILS55mWgkT&format=png" width="100px" height="auto"/>
 </p>
 
 
