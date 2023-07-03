@@ -18,37 +18,37 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 
 <h2><img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif" width="40px"> Achievements</h2>
 
-<b>✅ <a href= "https://www.codechef.com/users/rohantiwari">CodeChef</a></b><br>
+<b><img src="https://media.tenor.com/A-1z4jlGrXgAAAAi/onay2.gif" width="30px"> <a href= "https://www.codechef.com/users/rohantiwari">CodeChef</a></b><br>
 - 45+ Days of Coding Streak<br>
 - 350+ Problems Solved<br>
 - 1082+ 1v1 Rating<br>
 - Highest Rating 1362<br>
 - 15+ Contests Participated <br><br>
 
-<b>✅ <a href= "https://monkeytype.com/profile/RohanTiwari">Monkeytype</a></b><br> 
+<b><img src="https://media.tenor.com/A-1z4jlGrXgAAAAi/onay2.gif" width="30px"> <a href= "https://monkeytype.com/profile/RohanTiwari">Monkeytype</a></b><br> 
 - 190+ Level Experience<br>
 - 172+ Days of Typing Practice Streak<br>
 - Max 123 WPM in 30sec test<br>
 - Max 116 WPM in 60sec test<br>
 - 105+ WPM Average Typing Speed<br><br>
 
-<b>✅ <a href= "https://codeforces.com/profile/tiwarirohan">CodeForces</a></b><br> 
+<b><img src="https://media.tenor.com/A-1z4jlGrXgAAAAi/onay2.gif" width="30px"> <a href= "https://codeforces.com/profile/tiwarirohan">CodeForces</a></b><br> 
 - 27+ Problems Solved<br>
 - 24+ Days of Coding Streak<br>
 - Contest rating: max. newbie, 787<br><br>
 
-<b>✅ <a href= "https://www.hackerrank.com/rohantiwari2709?hr_r=1">HackerRank</a></b><br> 
+<b><img src="https://media.tenor.com/A-1z4jlGrXgAAAAi/onay2.gif" width="30px"> <a href= "https://www.hackerrank.com/rohantiwari2709?hr_r=1">HackerRank</a></b><br> 
 - 3⭐ Badge in C++<br>
 - 2⭐ Badge in C<br>
 - 2⭐ Badge in Java<br>
 - 1⭐ Problem Solving<br>
 - 330+ Hackos<br><br>
 
-<b>✅ <a href= "https://leetcode.com/rohantiwari2709/">Leetcode</a></b><br> 
+<b><img src="https://media.tenor.com/A-1z4jlGrXgAAAAi/onay2.gif" width="30px"> <a href= "https://leetcode.com/rohantiwari2709/">Leetcode</a></b><br> 
 - 12+ Questions Solved<br>
 - 10+ Days of Coding Streak<br><br>
 
-<b>✅ <a href= "https://www.codingninjas.com/studio/profile/rohan_tiwari">CodingStudio</a></b><br> 
+<b><img src="https://media.tenor.com/A-1z4jlGrXgAAAAi/onay2.gif" width="30px"> <a href= "https://www.codingninjas.com/studio/profile/rohan_tiwari">CodingStudio</a></b><br> 
 - Weekend Contest Rating 1854<br>
 - Level 5(Champion)<br>
 - 1770+ EXP gained<br>
@@ -56,7 +56,7 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 - 11+ Days of Coding Streak<br>
 - Bronze league<br>
 
-<b>✅ <a href= "https://www.hackerearth.com/@rohantiwari2709">HackerEarth</a></b><br> 
+<b><img src="https://media.tenor.com/A-1z4jlGrXgAAAAi/onay2.gif" width="30px"> <a href= "https://www.hackerearth.com/@rohantiwari2709">HackerEarth</a></b><br> 
 - 2⭐ Basic Programming<br>
 - 1⭐ Algorithms<br>
 - Level Amateure<br>
@@ -65,33 +65,33 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 - 200+ Points<br><br>
 
 <h2>🚀Languages and Tools</h2> <hr>
-<p align="left"> 
-    <img src="https://img.icons8.com/?size=512&id=40669&format=png" width="100px" height="auto"/>
-    <img src="https://img.icons8.com/?size=512&id=40670&format=png" width="100px" height="auto"/>
-    <img src="https://img.icons8.com/?size=512&id=13679&format=png" width="100px" height="auto"/>
-    <img src="https://img.icons8.com/?size=512&id=61466&format=png" width="100px" height="auto"/>
-    <img src="https://img.icons8.com/?size=512&id=9OGIyU8hrxW5&format=png" width="100px" height="auto"/>
-    <img src="https://img.icons8.com/?size=512&id=20906&format=png" width="100px" height="auto"/>
-    <img src="https://img.icons8.com/?size=512&id=12599&format=png" width="100px" height="auto"/>
-    <img src="https://img.icons8.com/?size=512&id=20909&format=png" width="100px" height="auto"/>
-    <img src="https://img.icons8.com/?size=512&id=21278&format=png" width="100px" height="auto"/>
-    <img src="https://img.icons8.com/?size=512&id=F6H2fsqXKBwH&format=png" width="100px" height="auto"/>
-    <img src="https://img.icons8.com/?size=512&id=gXoJoyTtYXFg&format=png" width="100px" height="auto"/>
-    <img src="https://img.icons8.com/?size=512&id=-5h34CbaUb09&format=png" width="100px" height="auto"/>
-    <img src="https://img.icons8.com/?size=512&id=O4SEeX66BY8o&format=png" width="100px" height="auto"/>
-    <img src="https://img.icons8.com/?size=512&id=YSy0lU4Y0X4z&format=png" width="100px" height="auto"/>
-    <img src="https://img.icons8.com/?size=512&id=mT2bzIQRdfpR&format=png" width="100px" height="auto"/>
-    <img src="https://img.icons8.com/?size=512&id=AbQBhN9v62Ob&format=png" width="100px" height="auto"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/HackerEarth_logo.png" width="100px" height="auto"/>
-    <img src="https://img.icons8.com/?size=512&id=6RHskkZGRABM&format=png" width="100px" height="auto"/>
-    <img src="https://typingstats.com/partners/monkeytype.png" width="100px" height="auto"/>
-    <img src="https://yt3.googleusercontent.com/kv5nH1CBnmIJ-1g2hmmTm_GekJfaYothHb1HmgAU8IB9zdu3y7vVVtCTEGPqs_dHbr0XEB_anyM=s900-c-k-c0x00ffffff-no-rj" width="100px" height="auto"/>
-    <img src="https://img.icons8.com/?size=512&id=iCILS55mWgkT&format=png" width="100px" height="auto"/>
+<p align="center"> 
+    <img src="https://img.icons8.com/?size=512&id=40669&format=png" width="80px" height="auto"/>
+    <img src="https://img.icons8.com/?size=512&id=40670&format=png" width="80px" height="auto"/>
+    <img src="https://img.icons8.com/?size=512&id=13679&format=png" width="80px" height="auto"/>
+    <img src="https://img.icons8.com/?size=512&id=61466&format=png" width="80px" height="auto"/>
+    <img src="https://img.icons8.com/?size=512&id=9OGIyU8hrxW5&format=png" width="80px" height="auto"/>
+    <img src="https://img.icons8.com/?size=512&id=20906&format=png" width="80px" height="auto"/>
+    <img src="https://img.icons8.com/?size=512&id=12599&format=png" width="80px" height="auto"/>
+    <img src="https://img.icons8.com/?size=512&id=20909&format=png" width="80px" height="auto"/>
+    <img src="https://img.icons8.com/?size=512&id=21278&format=png" width="80px" height="auto"/>
+    <img src="https://img.icons8.com/?size=512&id=F6H2fsqXKBwH&format=png" width="80px" height="auto"/>
+    <img src="https://img.icons8.com/?size=512&id=gXoJoyTtYXFg&format=png" width="80px" height="auto"/>
+    <img src="https://img.icons8.com/?size=512&id=-5h34CbaUb09&format=png" width="80px" height="auto"/>
+    <img src="https://img.icons8.com/?size=512&id=O4SEeX66BY8o&format=png" width="80px" height="auto"/>
+    <img src="https://img.icons8.com/?size=512&id=YSy0lU4Y0X4z&format=png" width="80px" height="auto"/>
+    <img src="https://img.icons8.com/?size=512&id=mT2bzIQRdfpR&format=png" width="80px" height="auto"/>
+    <img src="https://img.icons8.com/?size=512&id=AbQBhN9v62Ob&format=png" width="80px" height="auto"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/HackerEarth_logo.png" width="80px" height="auto"/>
+    <img src="https://img.icons8.com/?size=512&id=6RHskkZGRABM&format=png" width="80px" height="auto"/>
+    <img src="https://typingstats.com/partners/monkeytype.png" width="80px" height="auto"/>
+    <img src="https://yt3.googleusercontent.com/kv5nH1CBnmIJ-1g2hmmTm_GekJfaYothHb1HmgAU8IB9zdu3y7vVVtCTEGPqs_dHbr0XEB_anyM=s900-c-k-c0x00ffffff-no-rj" width="80px" height="auto"/>
+    <img src="https://img.icons8.com/?size=512&id=iCILS55mWgkT&format=png" width="80px" height="auto"/>
 </p>
 
 
 
-<h2>📊 My Github Stats</h2>
+<h2><img src="https://img.icons8.com/?size=512&id=114888&format=png" width="40px"> My Github Stats</h2>
 <hr>
     <p align="centre">   <a> <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rohan Tiwari streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mairohanhoon&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/></a
   </p>
