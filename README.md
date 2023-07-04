@@ -16,6 +16,20 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 - 📫 How to reach me <a href="mailto:rohantiwari2709@gmail.com"><b>Mail</b></a><br>
 - 🔗 Connect Me on <a href="https://www.linkedin.com/in/rohan-tiwarii/"><b>LinkedIn</b></a><br> <br>
 
+<h2>💖 DSA Zone</h2>
+<p align="center">
+    <button><a href="https://monkeytype.com/profile/RohanTiwari">
+    <img src="https://typingstats.com/partners/monkeytype.png" width="80px" height="auto"/></a></button>
+    <img src="https://asset.brandfetch.io/idQVGbrvGL/idFrWdCkB5.png" width="150px" height="auto"/>
+    <img src="https://img.icons8.com/?size=512&id=iCILS55mWgkT&format=png" width="80px" height="auto"/>
+     <img src="https://img.icons8.com/?size=512&id=O4SEeX66BY8o&format=png" width="80px" height="auto"/>
+    <img src="https://img.icons8.com/?size=512&id=YSy0lU4Y0X4z&format=png" width="80px" height="auto"/>
+    <img src="https://img.icons8.com/?size=512&id=mT2bzIQRdfpR&format=png" width="80px" height="auto"/>
+    <img src="https://img.icons8.com/?size=512&id=AbQBhN9v62Ob&format=png" width="80px" height="auto"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/HackerEarth_logo.png" width="80px" height="auto"/>
+    
+</p>
+
 <h2><img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif" width="40px"> Achievements</h2>
 
 <b><img src="https://media.tenor.com/A-1z4jlGrXgAAAAi/onay2.gif" width="30px"> <a href= "https://www.codechef.com/users/rohantiwari">CodeChef</a></b><br>
@@ -78,15 +92,8 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
     <img src="https://img.icons8.com/?size=512&id=F6H2fsqXKBwH&format=png" width="80px" height="auto"/>
     <img src="https://img.icons8.com/?size=512&id=gXoJoyTtYXFg&format=png" width="80px" height="auto"/>
     <img src="https://img.icons8.com/?size=512&id=-5h34CbaUb09&format=png" width="80px" height="auto"/>
-    <img src="https://img.icons8.com/?size=512&id=O4SEeX66BY8o&format=png" width="80px" height="auto"/>
-    <img src="https://img.icons8.com/?size=512&id=YSy0lU4Y0X4z&format=png" width="80px" height="auto"/>
-    <img src="https://img.icons8.com/?size=512&id=mT2bzIQRdfpR&format=png" width="80px" height="auto"/>
-    <img src="https://img.icons8.com/?size=512&id=AbQBhN9v62Ob&format=png" width="80px" height="auto"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/HackerEarth_logo.png" width="80px" height="auto"/>
     <img src="https://img.icons8.com/?size=512&id=6RHskkZGRABM&format=png" width="80px" height="auto"/>
-    <img src="https://typingstats.com/partners/monkeytype.png" width="80px" height="auto"/>
-    <img src="https://asset.brandfetch.io/idQVGbrvGL/idFrWdCkB5.png" width="150px" height="auto"/>
-    <img src="https://img.icons8.com/?size=512&id=iCILS55mWgkT&format=png" width="80px" height="auto"/>
+    <img src="https://store-images.s-microsoft.com/image/apps.60676.13510798887618339.3f24cea7-3933-4f14-9bcb-0cb1e7898ac5.f732c005-5fc9-481e-bd21-d32d2c6c5ae7" width="80px" height="auto"/>
 </p>
 
 
