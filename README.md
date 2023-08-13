@@ -35,10 +35,10 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 <h2><img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif" width="40px"> Achievements</h2>
 
 <b><img src="https://media.tenor.com/A-1z4jlGrXgAAAAi/onay2.gif" width="30px"> <a href= "https://www.codechef.com/users/rohantiwari">CodeChef</a></b><br>
-- 45+ Days of Coding Streak<br>
-- 350+ Problems Solved<br>
+- 80+ Days of Coding Streak<br>
+- 450+ Problems Solved<br>
 - 1082+ 1v1 Rating<br>
-- Highest Rating 1362<br>
+- Highest Rating 1402<br>
 - 15+ Contests Participated <br><br>
 
 <b><img src="https://media.tenor.com/A-1z4jlGrXgAAAAi/onay2.gif" width="30px"> <a href= "https://monkeytype.com/profile/RohanTiwari">Monkeytype</a></b><br> 
