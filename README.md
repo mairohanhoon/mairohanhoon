@@ -1,6 +1,6 @@
 <p><img src="background_1.png"></p>
 <h1 align="center"> Hi <img src="https://media.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="40px"> I'm <b>Rohan Tiwari</b></h1>
-<h2 align="center"><b>I'm a Passionate for Problem Solving and Learning Full Stack Development from India :india:</b></h2>
+<h2 align="center"><b>I'm a Passionate for Problem Solving and Learning Competitive Programming & Development from India :india:</b></h2>
 <h4 align="center"><b>Problem Solving Enthusiast || 2⭐CodeChef(max.1406) || 110+WPM || B.Tech CSE@DITU'26 || Proficient in C, C++, HTML, and CSS
 </b></h4> 
 
