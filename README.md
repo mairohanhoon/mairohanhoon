@@ -65,7 +65,7 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 - 10+ Days of Coding Streak<br><br>
 
 <b><img src="https://media.tenor.com/A-1z4jlGrXgAAAAi/onay2.gif" width="30px"> <a href= "https://www.codingninjas.com/studio/profile/rohan_tiwari">CodingStudio</a></b><br> 
-- Weekend Contest Rating 1854<br>
+- Weekend Contest Rating <b>2574</b><br>
 - Level 5(Champion)<br>
 - 1770+ EXP gained<br>
 - 35+ Problems Solved<br>
