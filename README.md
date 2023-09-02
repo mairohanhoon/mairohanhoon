@@ -80,11 +80,11 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 - 200+ Points<br><br>
 
 <b><img src="https://media.tenor.com/A-1z4jlGrXgAAAAi/onay2.gif" width="30px"> <a href= "https://monkeytype.com/profile/RohanTiwari">Monkeytype</a></b><br> 
-- 190+ Level Experience<br>
-- 172+ Days of Typing Practice Streak<br>
-- Max 123 WPM in 30sec test<br>
-- Max 116 WPM in 60sec test<br>
-- 105+ WPM Average Typing Speed<br><br>
+- 228+ Level Experience<br>
+- 236+ Days of Typing Practice Streak<br>
+- Max 129 WPM in 30sec test<br>
+- Max 126 WPM in 60sec test<br>
+- 110+ WPM Average Typing Speed<br><br>
 
 
 <h2>🚀Languages and Tools</h2> <hr>
