@@ -105,7 +105,9 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
     <img src="https://img.icons8.com/?size=512&id=wUUb0NekBwse&format=png" width="80px" height="auto"/>
     <img src="https://store-images.s-microsoft.com/image/apps.60676.13510798887618339.3f24cea7-3933-4f14-9bcb-0cb1e7898ac5.f732c005-5fc9-481e-bd21-d32d2c6c5ae7" width="80px" height="auto"/>
 </p>
-
+<p align="left"> 
+    <img src="https://komarev.com/ghpvc/?username=mairohanhoon&label=Profile%20views&color=0e75b6&style=flat" alt="mairohanhoon" /> 
+</p>
 
 
 <h2><img src="https://img.icons8.com/?size=512&id=114888&format=png" width="40px"> My Github Stats</h2>
