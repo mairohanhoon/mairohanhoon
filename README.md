@@ -34,24 +34,35 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 
 <h2><img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif" width="40px"> Achievements</h2>
 
+<b><img src="https://media.tenor.com/A-1z4jlGrXgAAAAi/onay2.gif" width="30px"> <a href= "https://www.codingninjas.com/studio/profile/rohan_tiwari">CodingNinja/Studio</a></b><br> 
+- Weekend Contest Rating <b>2707</b><br>
+- 🏆2 Time College Topper<br>
+- Level 7(Expert)<br>
+- 40000+ EXP gained<br>
+- 815+ Problems Solved<br>
+- 75+ Days of Coding Streak<br>
+- Ninja Dominator league<br>
+
 <b><img src="https://media.tenor.com/A-1z4jlGrXgAAAAi/onay2.gif" width="30px"> <a href= "https://www.codechef.com/users/rohantiwari">CodeChef</a></b><br>
-- 80+ Days of Coding Streak<br>
+- 105+ Days of Coding Streak<br>
 - 450+ Problems Solved<br>
 - 1082+ 1v1 Rating<br>
 - Highest Rating 1402<br>
-- 15+ Contests Participated <br><br>
+- 18+ Contests Participated <br><br>
 
-<b><img src="https://media.tenor.com/A-1z4jlGrXgAAAAi/onay2.gif" width="30px"> <a href= "https://monkeytype.com/profile/RohanTiwari">Monkeytype</a></b><br> 
-- 190+ Level Experience<br>
-- 172+ Days of Typing Practice Streak<br>
-- Max 123 WPM in 30sec test<br>
-- Max 116 WPM in 60sec test<br>
-- 105+ WPM Average Typing Speed<br><br>
+<b><img src="https://media.tenor.com/A-1z4jlGrXgAAAAi/onay2.gif" width="30px"> <a href= "https://leetcode.com/rohantiwari2709/">Leetcode</a></b><br> 
+- 77+ Questions Solved<br>
+- 72+ Days of Coding Streak<br><br>
 
 <b><img src="https://media.tenor.com/A-1z4jlGrXgAAAAi/onay2.gif" width="30px"> <a href= "https://codeforces.com/profile/tiwarirohan">CodeForces</a></b><br> 
-- 27+ Problems Solved<br>
-- 24+ Days of Coding Streak<br>
-- Contest rating: max. newbie, 787<br><br>
+- 85+ Problems Solved<br>
+- 87+ Days of Coding Streak<br>
+- Contest rating: max. newbie, 887<br><br>
+
+<b><img src="https://media.tenor.com/A-1z4jlGrXgAAAAi/onay2.gif" width="30px"> <a href= "https://codeforces.com/profile/tiwarirohan">GeeksForGeeks</a></b><br> 
+- 81+ Problems Solved<br>
+- 147+ Coding Score<br>
+- 197 Institute Rank <br><br>
 
 <b><img src="https://media.tenor.com/A-1z4jlGrXgAAAAi/onay2.gif" width="30px"> <a href= "https://www.hackerrank.com/rohantiwari2709?hr_r=1">HackerRank</a></b><br> 
 - 3⭐ Badge in C++<br>
@@ -60,18 +71,6 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 - 1⭐ Problem Solving<br>
 - 330+ Hackos<br><br>
 
-<b><img src="https://media.tenor.com/A-1z4jlGrXgAAAAi/onay2.gif" width="30px"> <a href= "https://leetcode.com/rohantiwari2709/">Leetcode</a></b><br> 
-- 12+ Questions Solved<br>
-- 10+ Days of Coding Streak<br><br>
-
-<b><img src="https://media.tenor.com/A-1z4jlGrXgAAAAi/onay2.gif" width="30px"> <a href= "https://www.codingninjas.com/studio/profile/rohan_tiwari">CodingStudio</a></b><br> 
-- Weekend Contest Rating <b>2574</b><br>
-- Level 5(Champion)<br>
-- 1770+ EXP gained<br>
-- 35+ Problems Solved<br>
-- 11+ Days of Coding Streak<br>
-- Bronze league<br>
-
 <b><img src="https://media.tenor.com/A-1z4jlGrXgAAAAi/onay2.gif" width="30px"> <a href= "https://www.hackerearth.com/@rohantiwari2709">HackerEarth</a></b><br> 
 - 2⭐ Basic Programming<br>
 - 1⭐ Algorithms<br>
@@ -79,6 +78,14 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 - 12+ Problems Solved<br>
 - 14+ Days of Coding Streak<br>
 - 200+ Points<br><br>
+
+<b><img src="https://media.tenor.com/A-1z4jlGrXgAAAAi/onay2.gif" width="30px"> <a href= "https://monkeytype.com/profile/RohanTiwari">Monkeytype</a></b><br> 
+- 190+ Level Experience<br>
+- 172+ Days of Typing Practice Streak<br>
+- Max 123 WPM in 30sec test<br>
+- Max 116 WPM in 60sec test<br>
+- 105+ WPM Average Typing Speed<br><br>
+
 
 <h2>🚀Languages and Tools</h2> <hr>
 <p align="center"> 
