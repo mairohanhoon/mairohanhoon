@@ -1,7 +1,7 @@
 <p><img src="background_1.png"></p>
 <h1 align="center"> Hi <img src="https://media.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="40px"> I'm <b>Rohan Tiwari</b></h1>
 <h2 align="center"><b>I'm a Passionate for Problem Solving and Learning Competitive Programming & Development from India :india:</b></h2>
-<h4 align="center"><b>Contest Rating 2707 & 2 Times College Topper🏆@CodingNinja || Problem Solving Enthusiast || 2⭐CodeChef(max.1406) || 110+WPM || B.Tech CSE@DITU'26 || Proficient in C, C++, HTML, and CSS
+<h4 align="center"><b>Contest Rating 2837 & 2 Times College Topper🏆@CodingNinja || Problem Solving Enthusiast || 2⭐CodeChef(max.1406) || 110+WPM || B.Tech CSE@DITU'26 || Proficient in C, C++, HTML, and CSS
 </b></h4> 
 
 <h2>🙋‍♂️ABOUT ME</h2>
@@ -35,7 +35,7 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 <h2><img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif" width="40px"> Achievements</h2>
 
 <b><img src="https://media.tenor.com/A-1z4jlGrXgAAAAi/onay2.gif" width="30px"> <a href= "https://www.codingninjas.com/studio/profile/rohan_tiwari">CodingNinja/Studio</a></b><br> 
-- Weekend Contest Rating <b>2707</b><br>
+- Weekend Contest Rating <b>2837</b><br>
 - 🏆2 Time College Topper<br>
 - Level 7(Expert)<br>
 - 40000+ EXP gained<br>
