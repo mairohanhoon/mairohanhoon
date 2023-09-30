@@ -113,10 +113,10 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 
 <h2><img src="https://img.icons8.com/?size=512&id=114888&format=png" width="40px"> My Github Stats</h2>
 <hr>
-    <p align="centre">   <a> <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rohan Tiwari streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mairohanhoon&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/></a>
+    <p align="center">   <a> <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rohan Tiwari streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mairohanhoon&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/></a>
   </p>
    <br/>
-   <p align="centre">
+   <p align="center">
 <a href="https://github.com/mairohanhoon/github-readme-stats"><img alt="Rohan Tiwari Github Stats" src="https://github-readme-stats.vercel.app/api?username=mairohanhoon&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/mairohanhoon/github-readme-stats"><img alt="Rohan Tiwari Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mairohanhoon&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a></p>
   <br/>
