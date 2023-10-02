@@ -87,7 +87,7 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 - 110+ WPM Average Typing Speed<br><br>
 
 
-<h2>🚀Languages and Tools</h2> <hr>
+<h2>🚀Languages and Tools</h2> <br>
 <p align="center"> 
     <img src="https://img.icons8.com/?size=512&id=40669&format=png" width="80px" height="auto"/>
     <img src="https://img.icons8.com/?size=512&id=40670&format=png" width="80px" height="auto"/>
@@ -105,15 +105,14 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
     <img src="https://img.icons8.com/?size=512&id=wUUb0NekBwse&format=png" width="80px" height="auto"/>
     <img src="https://store-images.s-microsoft.com/image/apps.60676.13510798887618339.3f24cea7-3933-4f14-9bcb-0cb1e7898ac5.f732c005-5fc9-481e-bd21-d32d2c6c5ae7" width="80px" height="auto"/>
 </p>
-<p align="left"> 
+
+<h2><img src="https://img.icons8.com/?size=512&id=114888&format=png" width="40px"> My Github Stats</h2><br>
+
+   <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=mairohanhoon&label=Profile%20views&color=0e75b6&style=flat" alt="mairohanhoon" /> 
 </p>
 
-
-
-<h2><img src="https://img.icons8.com/?size=512&id=114888&format=png" width="40px"> My Github Stats</h2>
-<hr>
-    <p align="center">   <a> <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rohan Tiwari streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mairohanhoon&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/></a>
+   <p align="center">   <a> <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rohan Tiwari streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mairohanhoon&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/></a>
   </p>
    <br/>
    <p align="center">
@@ -121,6 +120,9 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
   <a href="https://github.com/mairohanhoon/github-readme-stats"><img alt="Rohan Tiwari Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mairohanhoon&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a></p>
   <br/>
   <p align="center"> <img src="https://www.holopin.io/api/user/board?user=mairohanhoon"> </p>
+  
+[![Rohan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mairohanhoon&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <br/>
