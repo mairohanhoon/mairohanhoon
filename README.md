@@ -120,7 +120,9 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
   <a href="https://github.com/mairohanhoon/github-readme-stats"><img alt="Rohan Tiwari Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mairohanhoon&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a></p>
   <br/>
 
-[![An image of @mairohanhoon's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mairohanhoon)](https://holopin.io/@mairohanhoon)
+<p>
+    <img src = "https://holopin.me/mairohanhoon">
+</p>
   
 [![Rohan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mairohanhoon&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
