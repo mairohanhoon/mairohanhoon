@@ -1,17 +1,21 @@
-<p><img src="background_1.png"></p>
-<h1 align="center"> Hi <img src="https://media.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="40px"> I'm <b>Rohan Tiwari</b></h1>
+<p><img src="https://raw.githubusercontent.com/mairohanhoon/mairohanhoon/main/background1final.png"></p>
+<h1 align="center"> Hi👋I'm <b>Rohan Tiwari</b></h1>
 <h2 align="center"><b>I'm a Passionate for Problem Solving and Learning Competitive Programming & Development from India :india:</b></h2>
-<h4 align="center"><b>Contest Rating 2837 & 2 Times College Topper🏆@CodingNinja || Problem Solving Enthusiast || 2⭐CodeChef(max.1406) || 110+WPM || B.Tech CSE@DITU'26 || Proficient in C, C++, HTML, and CSS
+<h4 align="center"><b>Contest Rating 3340(Top 0.04%)& 2 Times College Topper🏆@CodingNinja || 🔥100+ Coding Streak On Multiple Platforms || Problem Solving Enthusiast || 2⭐CodeChef(max.1417) || 100+ Problems Solved on GFG & Leetcode || 110+WPM || B.Tech CSE@DITU'26 || Proficient in C, C++, HTML, and CSS
 </b></h4> 
 
 <h2>🙋‍♂️ABOUT ME</h2>
+
 - 🧑‍🎓 I'm passionate for Programming and Problem-Solving. I am always curious to learn new skills with Effective Idea's<br>
-- 👨‍💻 Love to learn new technologies and to explore new set of areas.<br>
+- 👨‍💻 Love to learn and discuss new technologies and to explore new set of areas.<br>
 - ⌨️ I'am a mechanical keyboard enthusiast and have 110+ Word Per Minutes typing speed <a href="https://monkeytype.com/profile/RonSpectre"><b>MonkeyType</b></a><br>
 - 👁‍🗨 What's Special about me? <br>
-Ability to quickly Learn and Master a new skill and to implement it to solve a realtime problems, and having a constant desire to learn and stay informed about emerging technologies in the tech world.<br>
+        ● Ability to quickly Learn and Master a new skill and to implement it to solve a realtime problems.<br>
+        ● Always striving to level up and fine-tune my skills.<br>
+        ● Eager to set new standards for myself, surpassing each achievement along the way.<br>
+        ● Having a constant desire to learn and stay informed about emerging technologies in the tech world.<br>
 - 📚 I'm Currently Studing in **2nd Year**<br>
-- 📘 I’m Currently learning **Full Stack Web Development & Advanced DSA**<br>
+- 📘 I’m Currently learning **Development & Advanced DSA while exploring Competitive Programming & Open Source**<br>
 - 🎈 For fun **Games, Reddit, Hip-Hop music**<br>
 - 📫 How to reach me <a href="mailto:rohantiwari2709@gmail.com"><b>Mail</b></a><br>
 - 🔗 Connect Me on <a href="https://www.linkedin.com/in/rohan-tiwarii/"><b>LinkedIn</b></a><br> <br>
@@ -37,39 +41,39 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 <b><img src="https://media.tenor.com/A-1z4jlGrXgAAAAi/onay2.gif" width="30px"> <a href= "https://www.codingninjas.com/studio/profile/rohan_tiwari">CodingNinja/Studio</a></b><br> 
 - Weekend Contest Rating <b>2837</b><br>
 - 🏆2 Time College Topper<br>
-- Level 7(Expert)<br>
-- 40000+ EXP gained<br>
-- 815+ Problems Solved<br>
-- 75+ Days of Coding Streak<br>
+- Level 8(Master) 70000+ EXP gained<br>
+- 1100+ Problems Solved<br>
+- 115+ Days of Coding Streak<br>
 - Ninja Dominator league<br>
 
 <b><img src="https://media.tenor.com/A-1z4jlGrXgAAAAi/onay2.gif" width="30px"> <a href= "https://www.codechef.com/users/rohantiwari">CodeChef</a></b><br>
-- 105+ Days of Coding Streak<br>
-- 450+ Problems Solved<br>
+- 145+ Days of Coding Streak<br>
+- 460+ Problems Solved<br>
 - 1082+ 1v1 Rating<br>
-- Highest Rating 1402<br>
-- 18+ Contests Participated <br><br>
+- 2⭐ Highest Rating 1417<br>
+- 22+ Contests Participated <br>
 
 <b><img src="https://media.tenor.com/A-1z4jlGrXgAAAAi/onay2.gif" width="30px"> <a href= "https://leetcode.com/rohantiwari2709/">Leetcode</a></b><br> 
-- 77+ Questions Solved<br>
-- 72+ Days of Coding Streak<br><br>
+- 108+ Questions Solved<br>
+- 110+ Days of Coding Streak<br>
+- 1450+ Contest Rating<br>
 
 <b><img src="https://media.tenor.com/A-1z4jlGrXgAAAAi/onay2.gif" width="30px"> <a href= "https://codeforces.com/profile/tiwarirohan">CodeForces</a></b><br> 
-- 85+ Problems Solved<br>
-- 87+ Days of Coding Streak<br>
-- Contest rating: max. newbie, 887<br><br>
+- 130+ Problems Solved<br>
+- 120++ Days of Coding Streak<br>
+- Contest rating: max. 950+<br>
 
 <b><img src="https://media.tenor.com/A-1z4jlGrXgAAAAi/onay2.gif" width="30px"> <a href= "https://codeforces.com/profile/tiwarirohan">GeeksForGeeks</a></b><br> 
-- 81+ Problems Solved<br>
-- 147+ Coding Score<br>
-- 197 Institute Rank <br><br>
+- 134+ Problems Solved<br>
+- 256+ Coding Score<br>
+- 148 Institute Rank <br>
 
 <b><img src="https://media.tenor.com/A-1z4jlGrXgAAAAi/onay2.gif" width="30px"> <a href= "https://www.hackerrank.com/rohantiwari2709?hr_r=1">HackerRank</a></b><br> 
 - 3⭐ Badge in C++<br>
 - 2⭐ Badge in C<br>
 - 2⭐ Badge in Java<br>
 - 1⭐ Problem Solving<br>
-- 330+ Hackos<br><br>
+- 330+ Hackos<br>
 
 <b><img src="https://media.tenor.com/A-1z4jlGrXgAAAAi/onay2.gif" width="30px"> <a href= "https://www.hackerearth.com/@rohantiwari2709">HackerEarth</a></b><br> 
 - 2⭐ Basic Programming<br>
@@ -77,14 +81,13 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 - Level Amateure<br>
 - 12+ Problems Solved<br>
 - 14+ Days of Coding Streak<br>
-- 200+ Points<br><br>
+- 200+ Points<br>
 
 <b><img src="https://media.tenor.com/A-1z4jlGrXgAAAAi/onay2.gif" width="30px"> <a href= "https://monkeytype.com/profile/RohanTiwari">Monkeytype</a></b><br> 
-- 228+ Level Experience<br>
-- 236+ Days of Typing Practice Streak<br>
-- Max 129 WPM in 30sec test<br>
-- Max 126 WPM in 60sec test<br>
-- 110+ WPM Average Typing Speed<br><br>
+- 240+ Level Experience<br>
+- Max 110 WPM in 30sec test<br>
+- Max 128 WPM in 60sec test<br>
+- 110+ WPM Average Typing Speed<br>
 
 
 <h2>🚀Languages and Tools</h2> <br>
