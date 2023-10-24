@@ -1,7 +1,7 @@
 <p><img src="https://raw.githubusercontent.com/mairohanhoon/mairohanhoon/main/background1final.png"></p>
 <h1 align="center"> Hi👋I'm <b>Rohan Tiwari</b></h1>
 <h2 align="center"><b>I'm a Passionate for Problem Solving and Learning Competitive Programming & Development from India :india:</b></h2>
-<h4 align="center"><b>Contest Rating 3340(Top 0.04%)& 2 Times College Topper🏆@CodingNinja || 🔥100+ Coding Streak On Multiple Platforms || Problem Solving Enthusiast || 2⭐CodeChef(max.1417) || 100+ Problems Solved on GFG & Leetcode || 110+WPM || B.Tech CSE@DITU'26 || Proficient in C, C++, HTML, and CSS
+<h4 align="center"><b>Contest Rating 3539(Top 0.02%)& 2 Times College Topper🏆@CodingNinja || 🔥120+ Coding Streak On Multiple Platforms || Problem Solving Enthusiast || 2⭐CodeChef(max.1417) || 2⭐Leetcode(max.1459) || 100+ Problems Solved on GFG & Leetcode || 110+WPM || B.Tech CSE@DITU'26 || Proficient in C, C++, HTML, CSS and JavaScript
 </b></h4> 
 
 <h2>🙋‍♂️ABOUT ME</h2>
@@ -100,6 +100,7 @@
     <img src="https://img.icons8.com/?size=512&id=20906&format=png" width="80px" height="auto"/>
     <img src="https://img.icons8.com/?size=512&id=12599&format=png" width="80px" height="auto"/>
     <img src="https://img.icons8.com/?size=512&id=20909&format=png" width="80px" height="auto"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/768px-JavaScript-logo.png" width="80px" height="auto"/>  
     <img src="https://img.icons8.com/?size=512&id=21278&format=png" width="80px" height="auto"/>
     <img src="https://img.icons8.com/?size=512&id=F6H2fsqXKBwH&format=png" width="80px" height="auto"/>
     <img src="https://img.icons8.com/?size=512&id=gXoJoyTtYXFg&format=png" width="80px" height="auto"/>
