@@ -1,7 +1,7 @@
 <p><img src="https://raw.githubusercontent.com/mairohanhoon/mairohanhoon/main/background1final.png"></p>
 <h1 align="center"> Hi👋I'm <b>Rohan Tiwari</b></h1>
 <h2 align="center"><b>I'm a Passionate for Problem Solving and Learning Competitive Programming & Development from India :india:</b></h2>
-<h4 align="center"><b>Contest Rating 3539(Top 0.02%)& 2 Times College Topper🏆@CodingNinja || 🔥120+ Coding Streak On Multiple Platforms || Problem Solving Enthusiast || 2⭐CodeChef(max.1417) || 2⭐Leetcode(max.1459) || 100+ Problems Solved on GFG & Leetcode || 110+WPM || B.Tech CSE@DITU'26 || Proficient in C, C++, HTML, CSS and JavaScript
+<h4 align="center"><b>Contest Rating 4155(Top 0.1%)& 3 Times College Topper🏆@CodingNinja || 🔥180+ Coding Streak On Multiple Platforms || Problem Solving Enthusiast || 2⭐CodeChef(max.1417) || 2⭐Leetcode(max.1459) || 160+ Problems Solved on GFG & Leetcode || 110+WPM || B.Tech CSE@DITU'26 || Proficient in C, C++, HTML, CSS and JavaScript
 </b></h4> 
 
 <h2>🙋‍♂️ABOUT ME</h2>
